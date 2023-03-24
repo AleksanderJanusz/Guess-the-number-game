@@ -1,4 +1,4 @@
-Guess the number game.
+#Guess the number game.
 
 1) Start Game - main.py
 
